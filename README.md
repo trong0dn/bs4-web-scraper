@@ -1,5 +1,5 @@
 # web-scraper
-A simple web scraper using Python3 with BeautifulSoup4 library to extract the latest feed of products from the Newegg website. Long story short, I am recently built a PC and just missing a GPU.
+A simple web scraper using Python3 with BeautifulSoup4 library to extract the latest feed of products from the Newegg website.  The resulting output was then written to a csv file. Long story made short, recently built a PC and looking for GPUs on the market. Thought it would be fun to web scrape some potential websites for comparing overall cost of the product.
 
 ## Dependencies
 [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) - Python library for pulling data out of HTML and XML files
