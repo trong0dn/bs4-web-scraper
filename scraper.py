@@ -15,7 +15,7 @@ page_soup = soup(page_html, "html.parser")
 containers = page_soup.findAll("div", {"class":"item-container"})
 
 # Open a csv file
-filename = "products.csv"
+filename = "output.csv"
 f = open(filename, "w")
 
 # Write in the headers
