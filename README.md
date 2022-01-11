@@ -10,7 +10,7 @@ To get started, we need to download Python package manager.
 
 ```
 // Windows Environment
-> python get-pip.py
+> python -m pip install --upgrade pip
 ```
 
 ```
