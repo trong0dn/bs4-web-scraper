@@ -32,6 +32,20 @@ As BeautifulSoup is not a standard library, we need to install it. We are going 
 $ sudo apt-get install python3-bs4
 ```
 
+## Deployment
+
+```
+# Clone
+$ https://github.com/trong0dn/web-scraper.git
+
+# Run script
+$ python scraper.py
+```
+
+## Data Object Model
+
+Parsing the HTML page is a commonly done using the Data Object Model (DOM) which is the data representation of the objects that comprise the structure and content of a document on the web. More traditionally, it is the programming interface for web documents where the page structure, style, and content is translated from script code.
+
 ## Acknowledgement
 
 Thanks to my gaming friends for giving me the "push" to look for GPUs.
